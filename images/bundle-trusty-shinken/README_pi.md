@@ -1,6 +1,6 @@
 # 5 Minutes Stacks, épisode 15 : Shinken #
 
-## Episode 15 : Shinken-server
+## Episode 15 : Shinken
 
 ![Minimum setup](http://www.samuelpoggioli.fr/wp-content/uploads/2014/12/Shinken-624x192.jpg)
 
